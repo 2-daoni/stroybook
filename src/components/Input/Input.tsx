@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './button.css';
-
 export interface InputProps {
   /** Input placeholder */
   placeholder: string;
